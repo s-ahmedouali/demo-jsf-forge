@@ -11,6 +11,11 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <scm>
+    <connection>scm:git:https://github.com/s-ahmedouali/demo-jsf-forge.git</connection>
+    <developerConnection>scm:git:https://github.com/s-ahmedouali/demo-jsf-forge.git</developerConnection>
+    <url>https://github.com/s-ahmedouali/demo-jsf-forge.git</url>
+  </scm>
   <dependencyManagement>
     <dependencies>
       <dependency>
