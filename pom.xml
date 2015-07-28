@@ -80,13 +80,13 @@
     <repository>
         <id>nexus</id>
         <name>releases</name>
-        <url>http://localhost:8083/nexus/content/repositories/releases/</url>
+        <url>http://188.165.150.33:8083/nexus/content/repositories/releases/</url>
     </repository>
     <!-- Publish snapshots here -->
     <snapshotRepository>
         <id>nexus</id>
         <name>snapshots</name>
-        <url>http://localhost:8083/nexus/content/repositories/snapshots/</url>
+        <url>http://188.165.150.33:8083/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   <build>
